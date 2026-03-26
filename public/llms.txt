@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לחנות המקוונת המובילה לצעצועים יצירתיים! חרוזי מזל לילדים, פיג׳יטויס סנסוריים וערכות יצירה צבעוניות — הכל במקום אחד. הזמינו עכשיו!
+
+### העולם שלנו
+https://example.com/our-world
+מאחורי כל חרוז מזל מסתתרת סיפור של יצירה ושמחה. גלו את הערכים, החזון והתשוקה שמניעים אותנו לייצר צעצועים ואביזרים שילדים ומתבגרים פשוט מתאהבים בהם.
+
+### משחק יצירתי
+https://example.com/creative-play
+ערכות יצירה לבני נוער וילדים שמדליקות את הדמיון! פיג׳יטויס לילדים ישראל, תכשיטי חרוזי מזל עשה-זאת-בעצמך וסדנאות יצירה ביתיות — כי היצירה הטובה ביותר מתחילה כאן.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על חרוזי מזל, ערכות יצירה או פיג׳יטויס? צוות מלכת חרוזי המזל כאן בשבילכם! צרו קשר עכשיו ונחזור אליכם במהירות עם כל התשובות שאתם צריכים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - מלכת חרוזי המזל
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מלכת חרוזי המזל
+
+### Category
+https://example.com/category/:slug
+מוצרים - מלכת חרוזי המזל
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
